@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bec7ff0.css",
-    "main.js": "/static/js/main.990e72e2.js",
+    "main.css": "/static/css/main.e52146f1.css",
+    "main.js": "/static/js/main.92f6a48f.js",
     "static/media/back-dark-1.png": "/static/media/back-dark-1.2f2199379de0097c8992.png",
-    "static/media/profile.png": "/static/media/profile.05765b19fb8a8b9bebb1.png",
-    "static/media/faq_back.png": "/static/media/faq_back.e6bb652fb8416662b04d.png",
+    "static/media/2project.jpg": "/static/media/2project.8148d78effd17a413079.jpg",
+    "static/media/1project.jpg": "/static/media/1project.fc7ba8c87c88a614bd6e.jpg",
+    "static/media/profile.png": "/static/media/profile.3d8a0aefc1f8cbddcd7e.png",
     "static/media/back_el_2.png": "/static/media/back_el_2.bb7f1eac1860f38b37be.png",
+    "static/media/3project.jpg": "/static/media/3project.438b074012e4be53bfed.jpg",
     "static/media/profile_back_dark.png": "/static/media/profile_back_dark.c7c616cba81dbe0527a1.png",
-    "static/media/instagram_profile.jpg": "/static/media/instagram_profile.ed86f623ea38d307e1d5.jpg",
-    "static/media/fb_profile.jpg": "/static/media/fb_profile.a834533d11ef2645ee22.jpg",
-    "static/media/linkedin_profile.jpg": "/static/media/linkedin_profile.0479b9351921ef43fdba.jpg",
     "static/media/quote.png": "/static/media/quote.90ab5dd3d4cf53c93ca2.png",
     "static/media/back_el_1.png": "/static/media/back_el_1.365f8ffc5fceb4e3b85d.png",
     "static/media/instagram.png": "/static/media/instagram.b1c6a6da4022f6def0c8.png",
     "static/media/twitter.png": "/static/media/twitter.aea7a6860748c440252f.png",
     "static/media/linkedin.png": "/static/media/linkedin.df69b3e510c4d1d60c7b.png",
+    "static/media/graphql_logo.png": "/static/media/graphql_logo.92e8046b3a34974ccbd8.png",
     "static/media/facebook.png": "/static/media/facebook.096e678a50b2800a0db7.png",
+    "static/media/postman_logo.png": "/static/media/postman_logo.4f92fcba27248e7964e6.png",
+    "static/media/bootstrap_logo.png": "/static/media/bootstrap_logo.23fadfb00ffd0933a7c1.png",
+    "static/media/react_logo.png": "/static/media/react_logo.8ae454d7201164236eeb.png",
     "index.html": "/index.html",
-    "main.1bec7ff0.css.map": "/static/css/main.1bec7ff0.css.map",
-    "main.990e72e2.js.map": "/static/js/main.990e72e2.js.map"
+    "main.e52146f1.css.map": "/static/css/main.e52146f1.css.map",
+    "main.92f6a48f.js.map": "/static/js/main.92f6a48f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bec7ff0.css",
-    "static/js/main.990e72e2.js"
+    "static/css/main.e52146f1.css",
+    "static/js/main.92f6a48f.js"
   ]
 }
